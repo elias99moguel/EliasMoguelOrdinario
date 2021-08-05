@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://elias99moguel.github.io/EliasMoguelOrdinario/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
